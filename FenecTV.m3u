@@ -1,4 +1,166 @@
 #EXTM3U
+#EXTINF:0,Canal 6 Multimedios tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Multimedios
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,Canal 6 Multimedios MX tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Multimedios MX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:0,Canal 5 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV", Canal 5
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a067&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Azteca 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Azteca 7
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:0,Azteca 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Azteca 7
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a064&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Las Estrellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas HD
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0,Las Estrellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas HD
+http://190.60.39.220:8000/play/a06p/index.m3u8
+#EXTINF:0,Las Estrellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas HD
+https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+#EXTINF:0,Las Estrellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:0,Imagen Tv tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Imagen Tv
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:0,Telemundo tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Telemundo
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0qy&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Univision tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Univision
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0rw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,CNN Esañol tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CNN Esañol
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a036&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,FX tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FX
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0qz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,FX tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FX
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a05e&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,Golden Edge tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Golden Edge
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a001&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Golden tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Golden 
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a02j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HBO tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HBO
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HBO tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HBO
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a056&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,HBO 2 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HBO 2
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a052&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,HBO 2 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HBO 2
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a00m&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HBO Family tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HBO Family
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a055&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,HBO Family tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HBO Family 
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a00o&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HBO Plus tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HBO Plus
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a00n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HBO Extreme tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HBO Extreme
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a00p&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,HBO Extreme tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HBO Extreme
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a054&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,Hola! TV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Hola! TV
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0rc&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,History Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",History Channel
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a038&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,History tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",History 
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a01o&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Nat Geo tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Nat Geo
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0rq&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,National Geographic tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",National Geographic
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a01b&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Home & Health tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Home & Health
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0rb&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Multipremier tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Multipremier
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a042&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Space tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Space
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a04h&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Star Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Star Channel
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Star Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Star Channel
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a02y&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,Sony Movie tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Sony Movie
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a005&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Studio Universal tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Studio Universal
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a045&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,TNT tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TNT
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0r9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,TNT Series tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TNT Series
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0rs&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Universal Comedia tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Universal Comedia
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0rk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Universal Crime tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Universal Crime
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0rj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Universal Premier tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Universal Premier
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0rg&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Universal tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Universal
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a040&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Warner tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Warner
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Warner HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Warner HD
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a03e&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,Warner HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Warner HD
+http://181.78.79.131:8000/play/a0sz
+#EXTINF:0,Warner HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Warner HD
+http://181.78.79.131:8000/play/a0pz
+#EXTINF:0,Nick Jr tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Nick Jr
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a065&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,Nick Jr tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Nick Jr
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a04r&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a03b&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,Disney Jr tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Jr
+http://190.14.10.19:16000/play/a02d/index.m3u8
+#EXTINF:0,Disney Jr tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Jr
+http://190.14.10.19:16000/play/a02d/index.m3u8
+#EXTINF:0,Disney Jr tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Jr
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a03a&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,Disney Jr tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Jr
+http://181.78.14.26:4000/play/a073/index.m3u8
+#EXTINF:0,Cartoon Netrwork tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Cartoon Netrwork 
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a030&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,El Chavo del 8 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",El Chavo del 8
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:0,Azteca Deportes tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Azteca Deportes
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:0,ESPN tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN Co
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a04f&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,ESPN tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a012&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a03i&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,ESPN 2 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN 2
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a053&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 2 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN 2
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a039&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,ESPN 3 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN 3
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a02d&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 3 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN 3
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a04u&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,ESPN 3 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN 3
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a054&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 4 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN 4
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a057&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 4 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN 4
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a046&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,ESPN 5 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN 5
+http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a058&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:0,ESPN 6 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN 6
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a03o&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:0,ESPN 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN 7
+http://tecnotv.club/mu54/phpcode/lista2.php?c=a03n&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:0,Adult Swim
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05x/index.m3u8
@@ -173,9 +335,6 @@ http://190.60.39.220:8000/play/a01z/index.m3u8
 #EXTINF:0,Food Network
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05y/index.m3u8
-#EXTINF:0,France 24
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a07t/index.m3u8
 #EXTINF:0,FULL SYSTEM TV
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a040/index.m3u8
@@ -227,9 +386,6 @@ http://190.60.39.220:8000/play/a00d/index.m3u8
 #EXTINF:0,LA MEGA
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a090/index.m3u8
-#EXTINF:0,Las Estrellas HD
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a06p/index.m3u8
 #EXTINF:0,Latina HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08p/index.m3u8
@@ -389,3 +545,48 @@ http://190.60.39.220:8000/play/a088/index.m3u8
 #EXTINF:11,Zoom
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a081/index.m3u8
+
+
+#EXTINF:0,La Bella Durmiente tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",La Bella Durmiente
+http://bit.ly/La Bella Durmiente
+#EXTINF:0,Volver al Futuro tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Volver al Futuro
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:0,Bumblebee tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Bumblebee
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545923.mkv
+#EXTINF:0,Búsqueda implacable tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Búsqueda implacable
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545925.mkv
+#EXTINF:0,Búsqueda implacable 2 tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Búsqueda implacable 2
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545926.mkv
+#EXTINF:0,Búsqueda implacable 3 tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Búsqueda implacable 3
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545927.mkv
+#EXTINF:0,Contra Cara tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Contra Cara
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545940.mkv
+#EXTINF:0,El Cuervo tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",El Cuervo 
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545970.mkv
+#EXTINF:0,El Llanero Solitario tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",El Llanero Solitario 
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545991.mkv
+#EXTINF:0,Jumanji Bienvenidos a la jungla tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Jumanji Bienvenidos a la jungla
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546071.mkv
+#EXTINF:0,Kong: La Isla Calavera tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Kong: La Isla Calavera
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546085.mkv
+#EXTINF:0,La Leyenda de Tarzán tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",La Leyenda de Tarzán
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546114.mkv
+#EXTINF:0,Liga de la Justicia tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Liga de la Justicia
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546135.mkv
+#EXTINF:0,Need For Speed: La Película tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Need For Speed: La Película
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546175.mkv
+#EXTINF:0,Piratas del Caribe: La Maldición del Perla Negra tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Piratas del Caribe: La Maldición del Perla Negra
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546198.mkv
+#EXTINF:0,Piratas del Caribe 2: El Cofre de la Muerte tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Piratas del Caribe 2: El Cofre de la Muerte
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546195.mkv
+#EXTINF:0,Piratas del Caribe 3: En el Fin del Mundo tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Piratas del Caribe 3: En el Fin del Mundo
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546196.mkv
+#EXTINF:0,Piratas del Caribe 4: Navegando Aguas Misteriosas tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Piratas del Caribe 4: Navegando Aguas Misteriosas
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546197.mkv
+#EXTINF:0,The equalizer  tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",The equalizer 
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546257.mkv
+#EXTINF:0,The Equalizer 2 tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",The Equalizer 2
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546258.mkv
+
+
+
