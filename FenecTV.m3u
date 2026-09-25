@@ -15,21 +15,21 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0,Canal 6 Multimedios MX tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Multimedios MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:0,Canal 5 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV", Canal 5
+#EXTINF:0,Canal 5 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 5
 http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a067&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:0,Azteca 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Azteca 7
+#EXTINF:0,Azteca 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal Azteca 7
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:0,Azteca 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Azteca 7
+#EXTINF:0,Azteca 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal Azteca 7
 http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a064&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:0,Las Estrellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas HD
+#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0,Las Estrellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas HD
+#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
 http://190.60.39.220:8000/play/a06p/index.m3u8
-#EXTINF:0,Las Estrellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas HD
+#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
-#EXTINF:0,Las Estrellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas HD
+#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:0,Imagen Tv tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Imagen Tv
+#EXTINF:0,ImagenTV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ImagenTV
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:0,Telemundo tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Telemundo
 http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0qy&token=tecnotokenplustv230516F&f=.m3u8
@@ -161,392 +161,354 @@ http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a058&token=tecnotokenplustv230516F
 http://tecnotv.club/mu54/phpcode/lista2.php?c=a03o&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:0,ESPN 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV Sport",ESPN 7
 http://tecnotv.club/mu54/phpcode/lista2.php?c=a03n&f=.m3u8&token=tecnotokenplustv230516F
-#EXTINF:0,Adult Swim
+#EXTINF:0,Adult Swim tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Adult Swim
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05x/index.m3u8
-#EXTINF:11,AE HD
+#EXTINF:11,AE HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",AE HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a063/index.m3u8
-#EXTINF:11,ALERTA BOGOTA
+#EXTINF:11,ALERTA BOGOTA tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ALERTA BOGOTA
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08y/index.m3u8
-#EXTINF:0,AMC HD
+#EXTINF:0,AMC HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",AMC HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06b/index.m3u8
-#EXTINF:0,America TV HD
+#EXTINF:0,America TV HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",AMERICA TV
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08o/index.m3u8
-#EXTINF:0,Animal Planet
+#EXTINF:0,Animal Planet tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ANIMAL PLANET
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06t/index.m3u8
-#EXTINF:0,AXN HD
+#EXTINF:0,AXN HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",AXN HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a072/index.m3u8
-#EXTINF:0,Baby TV
+#EXTINF:0,Baby TV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",BABY TV
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05n/index.m3u8
-#EXTINF:0,BETHEL TV
+#EXTINF:0,BETHEL TV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",BETHEL TV
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06r/index.m3u8
-#EXTINF:0,Canal Caracol
+#EXTINF:0,Canal Caracol tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CANAL CARACOL
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07w/index.m3u8
-#EXTINF:0,Canal del Congreso
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a07z/index.m3u8
-#EXTINF:0,Canal Institucional
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a07y/index.m3u8
-#EXTINF:0,Canal RCN
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a07x/index.m3u8
-#EXTINF:0,Canal Uno
+#EXTINF:0,Canal Uno tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CANAL UNO
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07v/index.m3u8
-#EXTINF:0,Capital
+#EXTINF:0,Capital tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CAPITAL
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a085/index.m3u8
-#EXTINF:0,CARACOL HD 2
+#EXTINF:0,CARACOL HD 2 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CARACOL HD 2
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08v/index.m3u8
-#EXTINF:0,CARACOL TV HD
+#EXTINF:0,CARACOL TV HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CARACOL HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a09d/index.m3u8
-#EXTINF:0,Cartoon Network HD
+#EXTINF:0,Cartoon Network HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CARTOON NETWORK HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06h/index.m3u8
-#EXTINF:0,Cartoonito
+#EXTINF:0,Cartoonito tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CARTOONITO
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a061/index.m3u8
-#EXTINF:0,Cinecanal HD
+#EXTINF:0,Cinecanal HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CINECANAL HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06y/index.m3u8
-#EXTINF:0,Cinemax
+#EXTINF:0,Cinemax tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CINEMAX
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05p/index.m3u8
-#EXTINF:0,City TV
+#EXTINF:0,City TV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CITY TV
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a084/index.m3u8
-#EXTINF:0,CNN Espa ol
+#EXTINF:0,CNN Espa ol tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CNN ESPAÑOL
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05o/index.m3u8
-#EXTINF:0,Comedy Central HD
+#EXTINF:0,Comedy Central HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",COMEDY CENTRAL HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a064/index.m3u8
-#EXTINF:0,CRISTO VISION
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a058/index.m3u8
-#EXTINF:0,De Pelicula
+#EXTINF:0,De Pelicula tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",DE PELICULA
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08h/index.m3u8
-#EXTINF:0,De Pelicula
+#EXTINF:0,De Pelicula tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",DE PELICULA HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a04v/index.m3u8
-#EXTINF:0,DHE HD
+#EXTINF:0,DHE HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",DHE HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08j/index.m3u8
-#EXTINF:0,Discovery Channel  HD
+#EXTINF:0,Discovery Channel  HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",DISCOVERY CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06u/index.m3u8
-#EXTINF:0,Discovery H&H
+#EXTINF:0,Discovery H&H tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",H&H
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07r/index.m3u8
-#EXTINF:0,Discovery Kids HD
+#EXTINF:0,Discovery Kids HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",DISCOVERY KIDS HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05z/index.m3u8
-#EXTINF:0,Discovery Science
+#EXTINF:0,Discovery Science tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",DISCOVERY SCIENCE
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05s/index.m3u8
-#EXTINF:0,Discovery Turbo
+#EXTINF:0,Discovery Turbo tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",DISCOVERY TURBO
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05q/index.m3u8
-#EXTINF:0,Disney Channel
+#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",DISNEY CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08g/index.m3u8
-#EXTINF:0,Disney Jr.
+#EXTINF:0,Disney Jr. tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",DISNEY JR
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08f/index.m3u8
-#EXTINF:0,Distrito Comedia
+#EXTINF:0,Distrito Comedia tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",DISTRITO COMEDIA
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08m/index.m3u8
-#EXTINF:0,DW Espa ol
+#EXTINF:0,DW Espa ol tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",DW ESPAÑOL
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07u/index.m3u8
-#EXTINF:0,E! Entertainment TV
+#EXTINF:0,E! Entertainment TV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",E! ENTERTEINMENT
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08n/index.m3u8
-#EXTINF:0,El Gourmet HD
+#EXTINF:0,El Gourmet HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",EL GOURMET HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a065/index.m3u8
-#EXTINF:0,Enlace
+#EXTINF:0,Enlace tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ENLACE
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08l/index.m3u8
-#EXTINF:0,ESPN 2 HD
+#EXTINF:0,ESPN 2 HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06l/index.m3u8
-#EXTINF:0,ESPN 3 HD
+#EXTINF:0,ESPN 3 HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06e/index.m3u8
-#EXTINF:0,ESPN 4 HD
+#EXTINF:0,ESPN 4 HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ESPN 4 HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a075/index.m3u8
-#EXTINF:0,ESPN 5 HD
+#EXTINF:0,ESPN 5 HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ESPN 5 HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a069/index.m3u8
-#EXTINF:0,ESPN 6 HD
+#EXTINF:0,ESPN 6 HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ESPN 6 HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a062/index.m3u8
-#EXTINF:0,ESPN 7 HD
+#EXTINF:0,ESPN 7 HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ESPN 7 HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06z/index.m3u8
-#EXTINF:0,ESPN HD
+#EXTINF:0,ESPN HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ESPN HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06g/index.m3u8
-#EXTINF:0,ESPN Premium HD
+#EXTINF:0,ESPN Premium HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ESPN PREMIUM HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06q/index.m3u8
-#EXTINF:0,ETC
+#EXTINF:0,ETC tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV", ETC HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05m/index.m3u8
-#EXTINF:0,EWTN
+#EXTINF:0,EWTN tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",EWIN HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05v/index.m3u8
-#EXTINF:0,FMH ANIMOTION 
+#EXTINF:0,FMH ANIMOTION tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FMH ANIMOTION
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a03d/index.m3u8
-#EXTINF:0,FMH ATLAS
+#EXTINF:0,FMH ATLAS tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FMH ATLAS
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a01u/index.m3u8
-#EXTINF:0,FMH FAMILY
+#EXTINF:0,FMH FAMILY tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FMH FAMILY
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a01v/index.m3u8
-#EXTINF:0,FMH KIDS
+#EXTINF:0,FMH KIDS tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FMH KIDS
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a01w/index.m3u8
-#EXTINF:0,FMH KIZZT
+#EXTINF:0,FMH KIZZT tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FMH KIZZT
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a01x/index.m3u8
-#EXTINF:0,FMH MOVIES
+#EXTINF:0,FMH MOVIES tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FMH MOVIES
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a01y/index.m3u8
-#EXTINF:0,FMH REWIND
+#EXTINF:0,FMH REWIND tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FMH REWIND
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a01z/index.m3u8
-#EXTINF:0,Food Network
+#EXTINF:0,Food Network tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FOOD NETWORK
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05y/index.m3u8
-#EXTINF:0,FULL SYSTEM TV
+#EXTINF:0,FULL SYSTEM TV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FULL SYSTEM TV
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a040/index.m3u8
-#EXTINF:0,FX HD
+#EXTINF:0,FX HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FX HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a076/index.m3u8
-#EXTINF:0,Golden Edge
+#EXTINF:0,Golden Edge tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",GOLDEN EDGE
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07m/index.m3u8
-#EXTINF:0,Golden HD
+#EXTINF:0,Golden HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",GOLDEN HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07g/index.m3u8
-#EXTINF:0,HEI HD
+#EXTINF:0,HEI HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HEI HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a067/index.m3u8
-#EXTINF:0,History 2
+#EXTINF:0,History 2 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HISTORY 2
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07h/index.m3u8
-#EXTINF:0,History Channel HD
+#EXTINF:0,History Channel HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HISTORY CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06v/index.m3u8
-#EXTINF:0,Hogar  TV 
+#EXTINF:0,Hogar  TV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HOGAR TV
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a02o/index.m3u8
-#EXTINF:0,Home & Health HD
+#EXTINF:0,Home & Health HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HOME & HEALTH
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a03p/index.m3u8
-#EXTINF:0,Home & Health HD
+#EXTINF:0,Home & Health HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HOME & HEALTH HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06i/index.m3u8
-#EXTINF:0,Home and Health
+#EXTINF:0,Home and Health tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HOME AND HEALTH
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08u/index.m3u8
-#EXTINF:0,HTV
+#EXTINF:0,HTV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",HTV
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07j/index.m3u8
-#EXTINF:0,ID
+#EXTINF:0,ID tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ID
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08r/index.m3u8
-#EXTINF:0,ID HD
+#EXTINF:0,ID HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ID HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a073/index.m3u8
-#EXTINF:0,LA FM RADIO
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a08x/index.m3u8
-#EXTINF:0,LA KALLE
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a00d/index.m3u8
-#EXTINF:0,LA MEGA
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a090/index.m3u8
-#EXTINF:0,Latina HD
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a08p/index.m3u8
-#EXTINF:0,Lifetime
+#EXTINF:0,Lifetime tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",LIFETIME
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05w/index.m3u8
-#EXTINF:0,MEMORIAS CLASICC
+#EXTINF:0,MEMORIAS CLASICC tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",MEMORIAS CLASICC
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a020/index.m3u8
-#EXTINF:0,MEMORIAS CORAZON
+#EXTINF:0,MEMORIAS CORAZON tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",MEMORIAS CORAZON
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a021/index.m3u8
-#EXTINF:0,MEMORIAS FILM
+#EXTINF:0,MEMORIAS FILM tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",MEMORIAS FILM
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a022/index.m3u8
-#EXTINF:0,MEMORIAS POP
+#EXTINF:0,MEMORIAS POP tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",MEMORIAS POP
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a023/index.m3u8
-#EXTINF:0,MEMORIAS SALSA
+#EXTINF:0,MEMORIAS SALSA tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",MEMORIAS SALSA
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a024/index.m3u8
-#EXTINF:0,MEMORIAS SERIES
+#EXTINF:0,MEMORIAS SERIES tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",MEMORIAS SERIES
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a025/index.m3u8
-#EXTINF:0,MEMORIAS TOONS
+#EXTINF:0,MEMORIAS TOONS tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",MEMORIAS TOONS
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a026/index.m3u8
-#EXTINF:0,MTV HD
+#EXTINF:0,MTV HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",MYV HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06f/index.m3u8
-#EXTINF:0,Nat Geo HD
+#EXTINF:0,Nat Geo HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",NAT GEO HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06w/index.m3u8
-#EXTINF:0,Nick Jr
+#EXTINF:0,Nick Jr tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",NICK JR
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08a/index.m3u8
-#EXTINF:0,Nickelodeon HD
+#EXTINF:0,Nickelodeon HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",NICKELODEON HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06m/index.m3u8
-#EXTINF:0,NTN24
+#EXTINF:0,NTN24 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",NIN24
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07k/index.m3u8
-#EXTINF:0,Nuestra Tele
+#EXTINF:0,Nuestra Tele tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",NUESTRA TELE
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07i/index.m3u8
-#EXTINF:0,OROMAR TV
+#EXTINF:0,OROMAR TV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",OROMAR TV
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a093/index.m3u8
-#EXTINF:0,Pasiones HD
+#EXTINF:0,Pasiones HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",PASIONES HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06k/index.m3u8
-#EXTINF:0,RCN HD
+#EXTINF:0,RCN HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",RCN HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a09e/index.m3u8
-#EXTINF:0,RCN HD 2
+#EXTINF:0,RCN HD 2 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",RCN HD 2
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08w/index.m3u8
-#EXTINF:0,RCN Novelas
+#EXTINF:0,RCN Novelas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",RCN NOVELAS
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08q/index.m3u8
-#EXTINF:0,RCN RADIO UNO
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a08z/index.m3u8
-#EXTINF:0,RTV
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a02a/index.m3u8
-#EXTINF:0,Rumba TV HD
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a03u/index.m3u8
-#EXTINF:0,Senal Colombia
-#EXTVLCOPT:network-caching=1000
-http://190.60.39.220:8000/play/a080/index.m3u8
-#EXTINF:0,Sony HD
+#EXTINF:0,Sony HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",SONY HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a070/index.m3u8
-#EXTINF:0,Sony Movies
+#EXTINF:0,Sony Movies tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",SONY MOVIES
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a060/index.m3u8
-#EXTINF:0,Space HD
+#EXTINF:0,Space HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",SPACE HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a074/index.m3u8
-#EXTINF:11,Star Channel HD
+#EXTINF:11,Star Channel HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",STAR CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a077/index.m3u8
-#EXTINF:0,Studio Universal HD
+#EXTINF:0,Studio Universal HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",STUDIO UNIVERSAL
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07a/index.m3u8
-#EXTINF:0,TCM
+#EXTINF:0,TCM tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV", TCM
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07o/index.m3u8
-#EXTINF:0,Tele Nostalgia HD
+#EXTINF:0,Tele Nostalgia HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TELE NOSTALGIA
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a03s/index.m3u8
-#EXTINF:0,Teleantioquia
+#EXTINF:0,Teleantioquia tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TELE ANTIOQUIA
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a087/index.m3u8
-#EXTINF:0,Telecafe
+#EXTINF:0,Telecafe tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TELE CAFE
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08d/index.m3u8
-#EXTINF:0,Telecaribe
+#EXTINF:0,Telecaribe tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TELE CARIBE
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08c/index.m3u8
-#EXTINF:0,Teleislas
+#EXTINF:0,Teleislas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TELE ISLAS
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a083/index.m3u8
-#EXTINF:0,Telemundo
+#EXTINF:0,Telemundo tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TELEMUNDO
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05t/index.m3u8
-#EXTINF:0,Telepacifico
+#EXTINF:0,Telepacifico tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TELE PASIFICO
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a089/index.m3u8
-#EXTINF:0,Telesur
+#EXTINF:0,Telesur tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TELESUR
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a02t/index.m3u8
-#EXTINF:0,TLC
+#EXTINF:0,TLC tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TLC
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05r/index.m3u8
-#EXTINF:0,Tlnovelas 
+#EXTINF:0,Tlnovelas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TL NOVELAS
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08k/index.m3u8
-#EXTINF:0,TNT HD
+#EXTINF:0,TNT HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TNT HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06x/index.m3u8
-#EXTINF:0,TNT Novelas
+#EXTINF:0,TNT Novelas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TNT NOVELAS
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08t/index.m3u8
-#EXTINF:0,TNT Novelas HD
+#EXTINF:0,TNT Novelas HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TNT NOVELAS HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06d/index.m3u8
-#EXTINF:0,TNT Series HD
+#EXTINF:0,TNT Series HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TNT SERIES HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a06c/index.m3u8
-#EXTINF:0,Tooncast
+#EXTINF:0,Tooncast tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TOONCAST
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a05u/index.m3u8
-#EXTINF:0,Trece
+#EXTINF:0,Trece tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TRECE
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a08e/index.m3u8
-#EXTINF:0,TRO
+#EXTINF:0,TRO tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TRO
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a082/index.m3u8
-#EXTINF:0,Tv Agro 
+#EXTINF:0,Tv Agro tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TV AGRO
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a02m/index.m3u8
-#EXTINF:0,UNIVERSAL CHANNEL HD
+#EXTINF:0,UNIVERSAL CHANNEL HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",UNIVERSAL CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a066/index.m3u8
-#EXTINF:0,USA
+#EXTINF:0,USA tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",USA
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a07l/index.m3u8
-#EXTINF:0,Warner TV HD
+#EXTINF:0,Warner TV HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",WARNER TV HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a071/index.m3u8
-#EXTINF:0,Win
+#EXTINF:0,Win tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",WIN HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a088/index.m3u8
-#EXTINF:11,Zoom
+#EXTINF:11,Zoom tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV", ZOMM HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a081/index.m3u8
-
-
 #EXTINF:0,La Bella Durmiente tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",La Bella Durmiente
 http://bit.ly/La Bella Durmiente
 #EXTINF:0,Volver al Futuro tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Volver al Futuro
