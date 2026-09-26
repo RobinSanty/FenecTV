@@ -17,6 +17,10 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0,Canal 5 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 5
 http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a067&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://i.ibb.co/kgWv9RL/Logo-Canal-5-M-xico.png" group-title="LATINOAMERICA",Canal 5 Mexico HD
+http://200.229.147.142:8000/play/a06t
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINOAMERICA",Azteca 7 HD
+http://200.229.147.142:8000/play/a06s
 #EXTINF:0,Azteca 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal Azteca 7
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:0,Azteca 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal Azteca 7
@@ -37,6 +41,10 @@ http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0qy&token=tecnotokenplustv230516F
 http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0rw&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:0,CNN Esañol tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",CNN Esañol
 http://tecnotv.club/mu54/phpcode/lista2.php?c=a036&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 channel-id="ES300029LP" tvg-id="ES300029LP" tvg-chno="4190" tvg-name="Anime Visión" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="Entretenimiento en Samsung",Anime Visión
+https://jmp2.uk/stvp-ES300029LP
+#EXTINF:-1 channel-id="ES3000288I" tvg-id="ES3000288I" tvg-chno="4191" tvg-name="Anime Visión Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="Entretenimiento en Samsung",Anime Visión Classics
+https://jmp2.uk/stvp-ES3000288I
 #EXTINF:0,FX tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FX
 http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0qz&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:0,FX tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FX
@@ -77,6 +85,14 @@ http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a01b&token=tecnotokenplustv230516F
 http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a0rb&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:0,Multipremier tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Multipremier
 http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a042&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v645nnX1/Logo-Sony-Cine.png" group-title="LATINOAMERICA",Sony Cine HD
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Mn2K6Km/Logo-Sony-Canal-Novelas.png" group-title="LATINOAMERICA",Sony One Novelas
+https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/27GJ35p/Logo-Sony-Canal-Escape-Perfecto.png" group-title="LATINOAMERICA",Sony Canal Escape Perfecto HD
+https://jmp2.uk/plu-605e479d5b8229000763e697.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvtsFbT/Logo-imagen-Universal.png" group-title="LATINOAMERICA",Imagen  Universal TV HD
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:0,Space tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Space
 http://tecnotv.club/mu54/phpcode/ssiptv.php?c=a04h&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:0,Star Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Star Channel
