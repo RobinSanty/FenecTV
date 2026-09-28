@@ -525,9 +525,6 @@ http://190.60.39.220:8000/play/a088/index.m3u8
 #EXTINF:11,Zoom tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV", ZOMM HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a081/index.m3u8
-
-EXTINF:0,Los Simpson Movie tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Los Simpson Movie
-https://archive.org/download/kratosloquendero/Los%20Simpson%20-%20La%20pelicula.mp4
 #EXTINF:0,Atlantis El Imperio Perdido tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Atlantis El Imperio Perdido
 https://archive.org/download/mul-n-2-2004-latino/atlantis-el-imperio-perdido-2001-%5Blatino%5D.mp4
 #EXTINF:0,La Bella Durmiente tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",La Bella Durmiente
@@ -577,8 +574,6 @@ https://archive.org/download/kratosloquendero/Dragon%20Ball%20Super%20-%20Broly.
 #EXTINF:-1, E01 - Renacimiento
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E01%20-%20Rebirth%20-%20PT-BR.srt
 https://archive.org/download/death-note-complete-2006-2007/E01%20-%20Rebirth.mp4
-
-
-
-
+#EXTINF:0,Los Simpson tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Los Simpson 
+https://archive.org/download/kratosloquendero/Los%20Simpson%20-%20La%20pelicula.mp4
 
