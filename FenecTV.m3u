@@ -525,6 +525,8 @@ http://190.60.39.220:8000/play/a088/index.m3u8
 #EXTINF:11,Zoom tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV", ZOMM HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.220:8000/play/a081/index.m3u8
+#EXTINF:0,Atlantis El Imperio Perdido tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Atlantis El Imperio Perdido
+https://archive.org/download/mul-n-2-2004-latino/atlantis-el-imperio-perdido-2001-%5Blatino%5D.mp4
 #EXTINF:0,La Bella Durmiente tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",La Bella Durmiente
 http://bit.ly/La Bella Durmiente
 #EXTINF:0,Volver al Futuro tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Volver al Futuro
@@ -559,7 +561,7 @@ http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546198.mkv
 http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546195.mkv
 #EXTINF:0,Piratas del Caribe 3: En el Fin del Mundo tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Piratas del Caribe 3: En el Fin del Mundo
 http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546196.mkv
-#EXTINF:0,Piratas del Caribe 4: Navegando Aguas Misteriosas tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Piratas del Caribe 4: Navegando Aguas Misteriosas
+#EXTINF:0,Piratas del Caribe 4: Navegando Aqtvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Piratas del Caribe 4: Navegando Aguas Misteriosas
 http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546197.mkv
 #EXTINF:0,The equalizer  tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",The equalizer 
 http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546257.mkv
