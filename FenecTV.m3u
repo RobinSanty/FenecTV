@@ -171,10 +171,6 @@ http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 HD" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐️ México",MX | AZTECA 7 HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534771
 #EXTINF:0,Azteca 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal Azteca 7
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
