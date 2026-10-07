@@ -563,14 +563,16 @@ https://ia600106.us.archive.org/18/items/run-dmc-walk-this-way-official-hd-video
 https://ia800604.us.archive.org/1/items/aerosmith-dream-on-live-from-mexico-city-2016-1080-p-hd/Aerosmith%20-%20Dream%20On%20%28Live%20From%20Mexico%20City_%202016%29%281080P_HD%29.mp4
 
 
-#EXTINF:-1 tvg-id="Peliculas Pokemon" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Peliculas Pokemon
+#EXTINF:-1 tvg-id="Peliculas Pokemon" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Peliculas Pokemon
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526454
-#EXTINF:-1 tvg-id="Peliculas Dragon Ball Z"  tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Peliculas Dragon Ball Z
+#EXTINF:-1 tvg-id="Peliculas Dragon Ball Z"  tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Peliculas Dragon Ball Z
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526559
-#EXTINF:-1 tvg-id="Moana Live Action" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Moana Live Action HD
+#EXTINF:-1 tvg-id="Moana Live Action" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Moana Live Action HD
 https://ia801500.us.archive.org/18/items/moana-2026_202609/Moana%202026.mp4
-#EXTINF:-1 tvg-id="Esta entre nosotros" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Estan entre Nosotros HD
+#EXTINF:-1 tvg-id="Esta entre nosotros" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Estan entre Nosotros HD
 https://ia600605.us.archive.org/19/items/nd-entre-nosotros/ND%20entre%20nosotros.mp4
+
+
 #EXTINF:0,Atlantis El Imperio Perdido tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Atlantis El Imperio Perdido
 https://archive.org/download/mul-n-2-2004-latino/atlantis-el-imperio-perdido-2001-%5Blatino%5D.mp4
 #EXTINF:0,La Bella Durmiente tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",La Bella Durmiente
