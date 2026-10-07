@@ -11,10 +11,12 @@ http://45.70.168.162:12339/play/a01j/index.m3u8
 #EXTINF:0,Canal Uno
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEVISA MONTERREY" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",TELEVISA MONTERREY
+#EXTINF:0,Televisa Mty
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534834
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MX | ADN 40 OP1" tvg-logo="http://redworld.pro:8880/images/6b6a99ae85088bf784c9900899d8fcf9.png" group-title="⭐️ México",MX | ADN 40 OP1
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
