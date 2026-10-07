@@ -62,16 +62,16 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0,Las Estrellas
 #EXTVLCOPT:network-caching=3000
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
-#EXTINF:0,#EXTINF:0,Estrella Tv
+#EXTINF:0,Estrellas TV
 #EXTVLCOPT:network-caching=3000
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:0,#EXTINF:0,Estrella Tv
+#EXTINF:0,Estrellas TV
 #EXTVLCOPT:network-caching=3000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:0,#EXTINF:0,Estrella Tv
+#EXTINF:0,Estrellas TV
 #EXTVLCOPT:network-caching=3000
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:0,#EXTINF:0,Cine Estrella Tv
+#EXTINF:0,Cine Estrella Tv
 #EXTVLCOPT:network-caching=3000
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
 #EXTINF:0,TLNovelas  Univision
