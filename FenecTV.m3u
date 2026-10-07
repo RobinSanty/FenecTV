@@ -1,14 +1,11 @@
 #EXTM3U
-#EXTINF:0,Canal Caracol tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal Caraol
-#EXTVLCOPT:network-caching=3000
-http://45.70.168.162:12339/play/a00o/index.m3u8
-#EXTINF:0,Canal Institucional tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal Institucional
+#EXTINF:0,Canal Institucional group-title="FenecTV",Canal Institucional
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a00q/index.m3u8
-#EXTINF:0,Telemundo tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV"
+#EXTINF:0,Telemundo group-title="FenecTV",Telemundo
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a01k/index.m3u8
-#EXTINF:0,Canal Las Estrellas
+#EXTINF:0,Canal Las Estrellas group-title="FenecTV",Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a01j/index.m3u8
 #EXTINF:0,Canal Uno
