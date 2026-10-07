@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:0,Canal Institucional group-title="FenecTV",Canal Institucional
+#EXTINF:0,Canal Institucional
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a00q/index.m3u8
-#EXTINF:0,Telemundo group-title="FenecTV",Telemundo
-#EXTVLCOPT:network-caching=3000
-http://45.70.168.162:12339/play/a01k/index.m3u8
-#EXTINF:0,Canal Las Estrellas group-title="FenecTV",Canal Las Estrtellas
-#EXTVLCOPT:network-caching=3000
-http://45.70.168.162:12339/play/a01j/index.m3u8
 #EXTINF:0,Canal Uno
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a00n/index.m3u8
+#EXTINF:0,Milenio
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534796
+#EXTINF:0,Milenio
+#EXTVLCOPT:network-caching=3000
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:0,Televisa Mty
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534834
@@ -38,12 +38,13 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://
 #EXTINF:0,Canal 6 Multimedios
 #EXTVLCOPT:network-caching=3000
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
-#EXTINF:0,Milenio
+#EXTINF:0,Telemundo
 #EXTVLCOPT:network-caching=3000
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534796
-#EXTINF:0,Milenio
+http://45.70.168.162:12339/play/a01k/index.m3u8
+#EXTINF:0,Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+http://45.70.168.162:12339/play/a01j/index.m3u8
+
 #EXTINF:0,TNT Novelas
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a00l/index.m3u8
@@ -59,53 +60,37 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135429
 #EXTINF:0, La Rosa De Guadalupe 24/7
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526416
-#EXTINF:0,ImagenTV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ImagenTV
+#EXTINF:0,Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Abierta",Las Estrellas HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="Estrella TV" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV Abierta",Estrella TV HD
+#EXTINF:0,Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal De Las Estrellas" tvg-logo="http://redworld.pro:8880/images/08a8ff2273ed6b7a6fa12dacc5b20a6d.png" group-title="⭐️ Telenovelas",Latino | Canal De Las Estrellas
+#EXTINF:0,Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+#EXTINF:0,Canal Las Estrtellas
+#EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135431
-#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL DE LAS ESTRELLAS OP2" tvg-logo="http://redworld.pro:8880/images/894a70f37f59ac14d4042b1dba66ea00.png" group-title="⭐️ México",MX | CANAL DE LAS ESTRELLAS OP2
+#EXTINF:0,Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534766
-#EXTINF:-1 tvg-name="Las Estrellas" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Las Estrellas
+#EXTINF:0,Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
+#EXTINF:0,Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://190.60.39.220:8000/play/a06p/index.m3u8
-#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
+#EXTINF:0,Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
-#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
+#EXTINF:0,Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-id="Cine Estrella" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV Abierta",Cine Estrella HD
+#EXTINF:0,Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
-#EXTINF:-1 tvg-name="Las Estrellas TV" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Las Estrellas TV
+#EXTINF:0,Canal Las Estrtellas
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo Accion" tvg-logo="https://i.postimg.cc/QMRVp8Yn/images.jpg" group-title="TV Abierta",Telemundo Accion HD
 #EXTVLCOPT:network-caching=3000
