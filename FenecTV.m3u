@@ -74,6 +74,12 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:0,Cine Estrella Tv
 #EXTVLCOPT:network-caching=3000
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
+#EXTINF:0, Distrito Comedia
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534780
+#EXTINF:0, Distrito Comedia
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534781
 #EXTINF:0,TLNovelas  Univision
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135439
@@ -125,6 +131,9 @@ http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5596
 #EXTINF:0, Disney Channel
 #EXTVLCOPT:network-caching=3000
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a00a/index.m3u8
 #EXTINF:0,Disney Channel
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a009/index.m3u8
@@ -212,15 +221,9 @@ https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
 #EXTINF:0, Pokemon 24/7
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526498
-#EXTINF:0, Slam Dunk 24/7
+#EXTINF:0, Dragon Ball Heroes 24/7
 #EXTVLCOPT:network-caching=3000
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526482
-#EXTINF:0, Death Note 24/7
-#EXTVLCOPT:network-caching=3000
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526533
-#EXTINF:0, Mazinger Z 24/7
-#EXTVLCOPT:network-caching=3000
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526510
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526331
 #EXTINF:0,  Dragon Ball Super 24/7
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526557
@@ -236,129 +239,166 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526355
 #EXTINF:0, Dragon ball Super 47-76  24/7
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526356
+#EXTINF:0, Dragon Ball Z Saga Saiyajin 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526405
+#EXTINF:0, Dragon Ball Z Saga Namek 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526406
+#EXTINF:0, Dragon Ball Z Saga de Garlic 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526407
+#EXTINF:0, Dragon Ball Z Arco de los Androides 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526408
+#EXTINF:0, Dragon Ball Z Saga de Cell 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526409
+#EXTINF:0, Dragon Ball Z Torneo de Cell 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526410
+#EXTINF:0, Dragon Ball Z Saga De Majin Boo 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526411
+#EXTINF:0, Dragon Ball 1 al 76  24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526403
+#EXTINF:0, Dragon Ball 77 al 153  24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526404
 #EXTINF:0, Caballeros del Zodiaco 01  24/7
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526474
 #EXTINF:0, Caballeros del Zodiaco 02  24/7
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526524
+#EXTINF:0, Slam Dunk 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526482
+#EXTINF:0, Death Note 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526533
+#EXTINF:0, Mazinger Z 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526510
 #EXTINF:0, Astroboy 24/7
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526475
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas Pokemon" tvg-logo="http://redworld.pro:8880/images/c0ab65dac088f30b028af0ff692c43bb.jpg" group-title="✅ 24/7 VIP",24/7 Peliculas Pokemon
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526454
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Robotech" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__nmteICfa-SB9CZ3voNncnXAG8JbUTtmRg&s" group-title="✅ 24/7 VIP",24/7 - Robotech
+#EXTINF:0, Robotech 24/7
+#EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526446
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Heroes" tvg-logo="http://redworld.pro:8880/images/5b550a15b66774852f039dea433d29fb.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Heroes
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526331
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball 1 al 76" tvg-logo="http://redworld.pro:8880/images/47fae34277b9e3a01392eec0c49a5434.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball 1 al 76
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526403
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball 77 al 153" tvg-logo="http://redworld.pro:8880/images/47fae34277b9e3a01392eec0c49a5434.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball 77 al 153
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526404
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin" tvg-logo="http://redworld.pro:8880/images/4c4ff64022dc214db4e2a5c4dbcf3b55.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga Saiyajin
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526405
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Namek" tvg-logo="http://redworld.pro:8880/images/2de97ee1bcdd0d18ffb3bc92c35c4e69.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga Namek
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526406
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga de Garlic" tvg-logo="http://redworld.pro:8880/images/ec49ab1f5e2ae065d26dbac864ee0510.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga de Garlic
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526407
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Arco de los Androides" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5efd1182-6241-4ccf-98e8-fdaae8d38109/dekn46d-26e0a1ca-5abb-4ded-b952-5d8f74b594a4.jpg/v1/fill/w_1024,h_1536,q_75,strp/dragon_ball_z_android_saga_by_raydash30_dekn46d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzNiIsInBhdGgiOiJcL2ZcLzVlZmQxMTgyLTYyNDEtNGNjZi05OGU4LWZkYWFlOGQzODEwOVwvZGVrbjQ2ZC0yNmUwYTFjYS01YWJiLTRkZWQtYjk1Mi01ZDhmNzRiNTk0YTQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YP9NqbgW2FFfco3n1p17uqEn-8vPiX-Mp_VFE_DJ9sM" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Arco de los Androides
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526408
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga de Cell" tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/tvs/poster/4b/a36f2a757f661fe5af341de8949dfaed_300x442.jpg?t=1697113801" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga de Cell
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526409
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Torneo de Cell" tvg-logo="http://redworld.pro:8880/images/2f55a72e0b25e5368a37b8c8a2259378.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Torneo de Cell
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526410
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="http://redworld.pro:8880/images/43fd41572682dc8ebe1065e614182799.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga De Majin Boo
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526411
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball GT" tvg-logo="http://redworld.pro:8880/images/97ea0f2dc94d97680f00cd1974aaaad5.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball GT
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526413
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Daima" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/330c00fc-b630-4c55-b95f-cf1ad592d4b7/die0vkw-d4710649-0d29-43cf-a2a8-70fecfa9ba61.png/v1/fill/w_1032,h_774/dragon_ball_daima_logo__unofficial__by_distortedgamer07_die0vkw-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6Ii9mLzMzMGMwMGZjLWI2MzAtNGM1NS1iOTVmLWNmMWFkNTkyZDRiNy9kaWUwdmt3LWQ0NzEwNjQ5LTBkMjktNDNjZi1hMmE4LTcwZmVjZmE5YmE2MS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5gsSaamfa0OFUBUXN0hz2ufxBaInJgaIWwoSuSpziLk" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Daima
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526447
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MX | DISTRITO COMEDIA OP1" tvg-logo="http://redworld.pro:8880/images/97d0f28a2d3f59df709661f256b9b753.png" group-title="⭐️ México",MX | DISTRITO COMEDIA OP1
+#EXTINF:0,Discovery Turbo
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534779
-#EXTINF:-1 tvg-id="" tvg-name="MX | DISTRITO COMEDIA OP2" tvg-logo="http://redworld.pro:8880/images/97d0f28a2d3f59df709661f256b9b753.png" group-title="⭐️ México",MX | DISTRITO COMEDIA OP2
+http://45.70.168.162:12339/play/a016/index.m3u8
+#EXTINF:0,Animal Planet
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534780
-#EXTINF:-1 tvg-id="" tvg-name="MX | DISTRITO COMEDIA OP3" tvg-logo="http://redworld.pro:8880/images/97d0f28a2d3f59df709661f256b9b753.png" group-title="⭐️ México",MX | DISTRITO COMEDIA OP3
+http://45.70.168.162:12339/play/a00b/index.m3u8
+#EXTINF:0,History Channel
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534781
-#EXTINF:-1 tvg-id="AMC " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",AMC HD
+http://45.70.168.162:12339/play/a003/index.m3u8
+#EXTINF:0,El Gourmet
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://181.176.155.7:8090/play/a1vw/index.m3u8
+http://45.70.168.162:12339/play/a024/index.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a01p/index.m3u8
+#EXTINF:0,Home and Health
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a01q/index.m3u8
+#EXTINF:0,Latino Glitz
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135432
+#EXTINF:0,E Entertainment
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a00d/index.m3u8
+
+
+
+#EXTINF:0,Cinecanal
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a004/index.m3u8
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a00x/index.m3u8
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414458
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534823
+#EXTINF:0,City TV
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a00u/index.m3u8
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a01z/index.m3u8
+#EXTINF:11,AE Mundo
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a00h/index.m3u8
 #EXTINF:0,AXN 
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a00z/index.m3u8
-#EXTINF:-1 tvg-name="MultiPremier" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",MultiPremier
+#EXTINF:0,AMC
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://168.196.127.137:6001/play/a08n/index.m3u8
-#EXTINF:-1 tvg-name="Golden Plus" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Golden Plus
+http://181.176.155.7:8090/play/a1vw/index.m3u8
+#EXTINF:0, SYFY
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://45.5.118.152:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://redworld.pro:8880/images/4819f8c63a16d13f9f52cbe5ea3be3b1.png" group-title="⭐️ México",SYFY HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534819
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://redworld.pro:8880/images/8d977b8d465c9db48d7ece30651d2605.png" group-title="⭐️ México",CINEMAX
+#EXTINF:0,Space
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534823
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | *C1NEMAX* SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *C1NEMAX* SD
+http://45.70.168.162:12339/play/a010/index.m3u8
+#EXTINF:0,FX
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414458
-#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | STAR CHANNEL  HD
+http://45.70.168.162:12339/play/a011/index.m3u8
+#EXTINF:0,STAR Channel
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+http://45.70.168.162:12339/play/a006/index.m3u8
+#EXTINF:0,STAR Channel
+#EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414459
-#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | STAR CHANNEL  FHD
+#EXTINF:0,STAR Channel
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414464
-#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | STAR CHANNEL  SD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414460
+#EXTINF:0,STAR Channel
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414464
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a00w/index.m3u8
+#EXTINF:0,SonyY
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a028/index.m3u8
+#EXTINF:0,Universal
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a005/index.m3u8
+#EXTINF:0,Warner
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a00c/index.m3u8
+#EXTINF:0, MultiPremier
+#EXTVLCOPT:network-caching=3000
+http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:0, Golden Plus
+#EXTVLCOPT:network-caching=3000
+http://45.5.118.152:8000/play/a03p/index.m3u8
+
+
+
+
+
+#EXTINF:0, SYFY
+#EXTVLCOPT:network-caching=3000
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0,FX HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FX HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -802,31 +842,6 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/533410
 
 
 
-#EXTINF:0,Sakura Card Captor Español cap 1 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 1
-https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2001%20en%20Espa%C3%B1ol%20latino.mp4
-#EXTINF:0,Sakura Card Captor Español cap 2 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 2
-https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2002%20en%20Espa%C3%B1ol%20latino.mp4
-#EXTINF:0,Sakura Card Captor Español cap 3 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 3
-https://dn600300.us.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2003%20en%20Espa%C3%B1ol%20latino.mp4
-#EXTINF:0,Sakura Card Captor Español cap 4 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 4
-https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2004%20en%20Espa%C3%B1ol%20latino.mp4
-#EXTINF:0,Sakura Card Captor Español cap 5 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 5
-https://dn600300.us.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2005%20en%20Espa%C3%B1ol%20latino.mp4
-#EXTINF:0,Sakura Card Captor Español cap 6 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 6
-https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2006%20en%20Espa%C3%B1ol%20latino.mp4
-#EXTINF:0,Sakura Card Captor Español cap 7 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 7
-https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2007%20en%20Espa%C3%B1ol%20latino.mp4
-#EXTINF:0,Sakura Card Captor Español cap 8 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 8
-https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2008%20en%20Espa%C3%B1ol%20latino.mp4
-#EXTINF:0,Sakura Card Captor Español cap 9 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 9
-https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2009%20en%20Espa%C3%B1ol%20latino.mp4
-#EXTINF:0,Sakura Card Captor Español cap 10 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 10
-https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2010%20en%20Espa%C3%B1ol%20latino.mp4
-
-
-#EXTINF:-1, E01 - Renacimiento
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E01%20-%20Rebirth%20-%20PT-BR.srt
-https://archive.org/download/death-note-complete-2006-2007/E01%20-%20Rebirth.mp4
 #EXTINF:-1 tvg-id="Metallica Master Of Puppets" tvg-logo="https://i.postimg.cc/xdVWTynF/ere.jpg" group-title="Music",Metallica Master Of Puppets HD
 https://ia903101.us.archive.org/17/items/metallica-master-of-puppets-manchester-england-june-18-2019-1080-p-hd/Metallica_%20Master%20of%20Puppets%20%28Manchester_%20England%20-%20June%2018_%202019%29%281080P_HD%29.mp4
 #EXTINF:-1 tvg-id="Nirvana Come As You Are" tvg-logo="https://i.postimg.cc/KzqqLnh4/ere.jpg" group-title="Music",Nirvana Come As You Are HD
@@ -843,8 +858,8 @@ https://ia600106.us.archive.org/18/items/run-dmc-walk-this-way-official-hd-video
 https://ia800604.us.archive.org/1/items/aerosmith-dream-on-live-from-mexico-city-2016-1080-p-hd/Aerosmith%20-%20Dream%20On%20%28Live%20From%20Mexico%20City_%202016%29%281080P_HD%29.mp4
 
 
-
-
+#EXTINF:-1 tvg-id="Peliculas Pokemon" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Peliculas Pokemon
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526454
 #EXTINF:-1 tvg-id="Peliculas Dragon Ball Z"  tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Peliculas Dragon Ball Z
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526559
 #EXTINF:-1 tvg-id="Moana Live Action" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Moana Live Action HD
@@ -908,6 +923,29 @@ https://archive.org/download/kratosloquendero/Los%20Simpson%20-%20La%20pelicula.
 
 
 
+
+
+
+#EXTINF:0,Sakura Card Captor Español cap 1 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 1
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2001%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 2 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 2
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2002%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 3 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 3
+https://dn600300.us.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2003%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 4 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 4
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2004%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 5 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 5
+https://dn600300.us.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2005%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 6 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 6
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2006%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 7 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 7
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2007%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 8 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 8
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2008%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 9 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 9
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2009%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 10 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 10
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2010%20en%20Espa%C3%B1ol%20latino.mp4
 
 
 
