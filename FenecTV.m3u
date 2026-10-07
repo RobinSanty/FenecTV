@@ -296,15 +296,9 @@ http://45.70.168.162:12339/play/a00b/index.m3u8
 #EXTINF:0,History Channel
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a003/index.m3u8
-#EXTINF:0,El Gourmet
-#EXTVLCOPT:network-caching=3000
-http://45.70.168.162:12339/play/a024/index.m3u8
 #EXTINF:0,MTV
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a01p/index.m3u8
-#EXTINF:0,Home and Health
-#EXTVLCOPT:network-caching=3000
-http://45.70.168.162:12339/play/a01q/index.m3u8
 #EXTINF:0,Latino Glitz
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135432
@@ -313,59 +307,40 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135432
 http://45.70.168.162:12339/play/a00d/index.m3u8
 
 
-
-#EXTINF:0,Cinecanal
-#EXTVLCOPT:network-caching=3000
-http://45.70.168.162:12339/play/a004/index.m3u8
-#EXTINF:0,Cinemax
-#EXTVLCOPT:network-caching=3000
-http://45.70.168.162:12339/play/a00x/index.m3u8
 #EXTINF:0,Cinemax
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414458
 #EXTINF:0,Cinemax
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534823
-#EXTINF:0,City TV
-#EXTVLCOPT:network-caching=3000
-http://45.70.168.162:12339/play/a00u/index.m3u8
 #EXTINF:0,TNT
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a01z/index.m3u8
 #EXTINF:11,AE Mundo
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a00h/index.m3u8
-#EXTINF:0,AXN 
-#EXTVLCOPT:network-caching=3000
-http://45.70.168.162:12339/play/a00z/index.m3u8
 #EXTINF:0,AMC
 #EXTVLCOPT:network-caching=3000
 http://181.176.155.7:8090/play/a1vw/index.m3u8
-#EXTINF:0, SYFY
-#EXTVLCOPT:network-caching=3000
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534819
-#EXTINF:0,Space
-#EXTVLCOPT:network-caching=3000
-http://45.70.168.162:12339/play/a010/index.m3u8
 #EXTINF:0,FX
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a011/index.m3u8
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=3000
+http://190.60.39.220:8000/play/a076/index.m3u8
 #EXTINF:0,STAR Channel
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a006/index.m3u8
 #EXTINF:0,STAR Channel
 #EXTVLCOPT:network-caching=3000
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414459
-#EXTINF:0,STAR Channel
-#EXTVLCOPT:network-caching=3000
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414460
-#EXTINF:0,STAR Channel
-#EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414464
 #EXTINF:0,HBO
 #EXTVLCOPT:network-caching=3000
-http://45.70.168.162:12339/play/a00w/index.m3u8
-#EXTINF:0,SonyY
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+
+
+#EXTINF:0,Sony
 #EXTVLCOPT:network-caching=3000
 http://45.70.168.162:12339/play/a028/index.m3u8
 #EXTINF:0,Universal
@@ -385,8 +360,6 @@ http://45.5.118.152:8000/play/a03p/index.m3u8
 
 
 
-#EXTINF:0, SYFY
-#EXTVLCOPT:network-caching=3000
 
 
 
@@ -395,18 +368,11 @@ http://45.5.118.152:8000/play/a03p/index.m3u8
 
 
 
-
-
-
-
-#EXTINF:0,FX HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FX HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://190.60.39.220:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE | FX  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FX  HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414498
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE | FX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FX  SD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -436,10 +402,6 @@ http://181.78.79.131:8000/play/a0sz
 #EXTVLCOPT:http-reconnect=true
 http://181.78.79.131:8000/play/a0pz
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvtsFbT/Logo-imagen-Universal.png" group-title="LATINOAMERICA",Imagen  Universal TV HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 tvg-id="HBO " tvg-logo="https://i.postimg.cc/PJyz23cx/images.png" group-title="TV Premium",HBO HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
