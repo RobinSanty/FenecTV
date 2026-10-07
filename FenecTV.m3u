@@ -20,76 +20,48 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534776
 #EXTINF:0,ADN 40
 #EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534777
-#EXTINF:0,ADN 40
+#EXTINF:0,Azteca UNo
 #EXTVLCOPT:network-caching=3000
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | 01 • AZTECA UNO" tvg-logo="http://redworld.pro:8880/images/2487746efe0de2d02265bb9f5262e078.png" group-title="⭐️ México",MX | 01 • AZTECA UNO
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534768
-#EXTINF:-1 tvg-id="" tvg-name="MX | NU9VE OP1" tvg-logo="http://redworld.pro:8880/images/f9beba5fea8179aef7979f7bce7557bd.png" group-title="⭐️ México",MX | NU9VE OP1
+#EXTINF:0,Nueve 9
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534778
-#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 6 MULTIMEDIOS" tvg-logo="http://redworld.pro:8880/images/d6f92508cfc42fd3861eabc720d3fe96.png" group-title="⭐️ México",MX | CANAL 6 MULTIMEDIOS
+#EXTINF:0,Canal 6 Multimedios
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534788
-#EXTINF:0,Canal 6 Multimedios tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Multimedios
+#EXTINF:0,Canal 6 Multimedios
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
+#EXTINF:0,Canal 6 Multimedios
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
-#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
+#EXTINF:0,Canal 6 Multimedios
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
-#EXTINF:0,Canal 6 Multimedios MX tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Multimedios MX
+#EXTINF:0,Milenio
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX | MILENIO HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | MILENIO HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534796
-#EXTINF:-1 tvg-id="Milenio Television" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="TV Abierta",Milenio Televisión HD
+#EXTINF:0,Milenio
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-name="Multimedios Monterrey" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Multimedios Monterrey
+
+
+
+
+#EXTINF:0,TNT Novelas
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO MEXICO" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",TELEMUNDO MEXICO
+http://45.70.168.162:12339/play/a00l/index.m3u8
+#EXTINF:0,Kanal D Drama
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/490417
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="http://redworld.pro:8880/images/3cc08b1c9d27766ef4324e457791f37b.png" group-title="⭐️ Telenovelas",Latino | Glitz
+http://45.70.168.162:12339/play/a02b/index.m3u8
+#EXTINF:0,Latino Pasiones
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135432
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Pasiones" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="⭐️ Telenovelas",Latino | Pasiones
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135435
-#EXTINF:-1 tvg-id="" tvg-name="Latino | AZ CORAZON" tvg-logo="http://redworld.pro:8880/images/c749fdf8a9943d4e485533e16bed3357.png" group-title="⭐️ Telenovelas",Latino | AZ CORAZON
+#EXTINF:0,Latino Az Corazón
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135429
-#EXTINF:0,Tlnovelas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TL NOVELAS
+#EXTINF:0, La Rosa De Guadalupe 24/7
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://190.60.39.220:8000/play/a08k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - La Rosa De Guadalupe" tvg-logo="http://redworld.pro:8880/images/087f3f0ec21ae979bf3b290d0022d0a4.jpg" group-title="✅ 24/7 VIP",24/7 - La Rosa De Guadalupe
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526416
 #EXTINF:0,ImagenTV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ImagenTV
 #EXTVLCOPT:network-caching=3000
