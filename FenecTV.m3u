@@ -113,119 +113,196 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534772
 #EXTINF:0, A7 Tv
 #EXTVLCOPT:network-caching=3000
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-#EXTINF:-1 tvg-name="El Chavo TV" group-title="Kids" tvg-logo="https://i.postimg.cc/fk8chP7y/fenec-tv-Kids.png",El Chavo TV
+#EXTINF:0, El Chavo del 8
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartoon Classics" tvg-logo="https://i.postimg.cc/ht51pCQM/descarga.png" group-title="TV Premium",Cartoon Classics HD
+#EXTINF:0,Disney Channel
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="TV Premium" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons HD
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="TV Premium",ES: Disney Channel HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5596
-#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://45.166.93.156:9999/play/a0f3/index.m3u8
-#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
-#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://45.166.93.156:9999/play/a0f3/index.m3u8
-#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
-#EXTINF:0,Disney Jr tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Jr
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://190.14.10.19:16000/play/a02d/index.m3u8
-#EXTINF:0,Disney Jr tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Jr
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://181.78.14.26:4000/play/a073/index.m3u8
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="TV Premium",ES: Disney Junior HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5597
-#EXTINF:-1 tvg-name="Disney Channel MX" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Disney Channel MX
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://45.166.93.156:9999/play/a0f3/index.m3u8
-#EXTINF:-1 tvg-name="Disney Channel North" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Disney Channel North
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
-#EXTINF:-1 tvg-name="Disney Jr. Latino" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Disney Jr. Latino
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://190.14.10.19:16000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOON NETWORK | OPC2" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="⭐️ Infantiles",KIDS | CARTOON NETWORK | OPC2
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321973
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOON NETWORK" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="⭐️ Infantiles",KIDS | CARTOON NETWORK CINEMAX
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321974
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOONITO" tvg-logo="http://redworld.pro:8880/images/be37514186ea0e9928444db722509319.png" group-title="⭐️ Infantiles",KIDS | CARTOONITO
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321975
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | DISCOVERY KIDS" tvg-logo="http://redworld.pro:8880/images/9616dc155d8f864cd00ba06266376b5e.png" group-title="⭐️ Infantiles",KIDS | DISCOVERY KIDS
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321976
-#EXTINF:-1 tvg-id="Disney Channel Latinoamérica" tvg-logo="https://i.postimg.cc/zvQG9RCp/images.jpg" group-title="TV Premium",Disney Channel Latinoamérica HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://181.78.8.199:8000/play/a0dn/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel Mexico" tvg-logo="https://i.postimg.cc/zvQG9RCp/images.jpg" group-title="TV Premium",Disney Channel Mexico HD
+#EXTINF:0, Disney Channel
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://45.166.93.156:9999/play/a0f3/index.m3u8
-#EXTINF:-1 tvg-id="Nicken" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="TV Premium",Nick HD
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5596
+#EXTINF:0, Disney Channel
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | DISNEY JUNIOR" tvg-logo="http://redworld.pro:8880/images/69ee308370f166ebd34ee64895d1c9a8.png" group-title="⭐️ Infantiles",KIDS | DISNEY JUNIOR
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:0,Disney Channel
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321981
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="TV Premium",ES: Nick Jr HD
+http://45.70.168.162:12339/play/a009/index.m3u8
+#EXTINF:0,Plim Plim TV
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+http://45.70.168.162:12339/play/a02a/index.m3u8
+#EXTINF:0,Cartoonito
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321975
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321976
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=3000
 http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5720
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="TV Premium",ES: Nick Jr HD
+#EXTINF:0, Disney Jr
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321981
+#EXTINF:0, Disney Jr
+#EXTVLCOPT:network-caching=3000
 http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KIDS | NICKELODEON" tvg-logo="http://redworld.pro:8880/images/5a9d428b61a7941c724e7c16747e0390.png" group-title="⭐️ Infantiles",KIDS | NICKELODEON
+#EXTINF:0, Disney Jr
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+http://181.78.14.26:4000/play/a073/index.m3u8
+#EXTINF:0, Disney Jr
+#EXTVLCOPT:network-caching=3000
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5597
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a015/index.m3u8
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=3000
+http://45.70.168.162:12339/play/a001/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321973
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321974
+#EXTINF:0,Nick
+#EXTVLCOPT:network-caching=3000
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321984
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="TV Premium",ES: Nickelodeon HD
+#EXTINF:0,Nickelodeon
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
 http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5721
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="TV Premium",ES: Nickelodeon HD
+#EXTINF:0, Las Tortugas Ninja 24/7
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-#EXTINF:-1 tvg-name="bitMe" group-title="FENECTV" tvg-logo="https://i.postimg.cc/g0Z7zwBr/fenectv-anime.png",bitMe
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+#EXTINF:0, Batman Animado 24/7
 #EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526491
+#EXTINF:0,bitMe
+#EXTVLCOPT:network-caching=3000
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+#EXTINF:0, Max Anime 24/7
+#EXTVLCOPT:network-caching=3000
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:0, Sailor Moon 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526476
+#EXTINF:0, Naruto 24/7
+#EXTVLCOPT:network-caching=3000
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+#EXTINF:0, Naruto Temp: 1-3 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526520
+#EXTINF:0, Naruto Temp: 4-5 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526521
+#EXTINF:0, Bakugan  24/7
+#EXTVLCOPT:network-caching=3000
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:0,  One Piece Live Action 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526497
+#EXTINF:0, One Piece 24/7
+#EXTVLCOPT:network-caching=3000
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+#EXTINF:0, One Piece Pluto 24/7
+#EXTVLCOPT:network-caching=3000
+https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+#EXTINF:0, Pokemon 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526498
+#EXTINF:0, Slam Dunk 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526482
+#EXTINF:0, Death Note 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526533
+#EXTINF:0, Mazinger Z 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526510
+#EXTINF:0,  Dragon Ball Super 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526557
+#EXTINF:0, Dragon ball Super 1-14  24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526353
+#EXTINF:0, Dragon ball Super 15-27  24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526354
+#EXTINF:0, Dragon ball Super 28-46  24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526355
+#EXTINF:0, Dragon ball Super 47-76  24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526356
+#EXTINF:0, Caballeros del Zodiaco 01  24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526474
+#EXTINF:0, Caballeros del Zodiaco 02  24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526524
+#EXTINF:0, Astroboy 24/7
+#EXTVLCOPT:network-caching=3000
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526475
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas Pokemon" tvg-logo="http://redworld.pro:8880/images/c0ab65dac088f30b028af0ff692c43bb.jpg" group-title="✅ 24/7 VIP",24/7 Peliculas Pokemon
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526454
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Robotech" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__nmteICfa-SB9CZ3voNncnXAG8JbUTtmRg&s" group-title="✅ 24/7 VIP",24/7 - Robotech
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526446
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Heroes" tvg-logo="http://redworld.pro:8880/images/5b550a15b66774852f039dea433d29fb.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Heroes
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526331
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball 1 al 76" tvg-logo="http://redworld.pro:8880/images/47fae34277b9e3a01392eec0c49a5434.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball 1 al 76
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526403
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball 77 al 153" tvg-logo="http://redworld.pro:8880/images/47fae34277b9e3a01392eec0c49a5434.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball 77 al 153
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526404
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin" tvg-logo="http://redworld.pro:8880/images/4c4ff64022dc214db4e2a5c4dbcf3b55.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga Saiyajin
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526405
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Namek" tvg-logo="http://redworld.pro:8880/images/2de97ee1bcdd0d18ffb3bc92c35c4e69.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga Namek
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526406
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga de Garlic" tvg-logo="http://redworld.pro:8880/images/ec49ab1f5e2ae065d26dbac864ee0510.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga de Garlic
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526407
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Arco de los Androides" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5efd1182-6241-4ccf-98e8-fdaae8d38109/dekn46d-26e0a1ca-5abb-4ded-b952-5d8f74b594a4.jpg/v1/fill/w_1024,h_1536,q_75,strp/dragon_ball_z_android_saga_by_raydash30_dekn46d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzNiIsInBhdGgiOiJcL2ZcLzVlZmQxMTgyLTYyNDEtNGNjZi05OGU4LWZkYWFlOGQzODEwOVwvZGVrbjQ2ZC0yNmUwYTFjYS01YWJiLTRkZWQtYjk1Mi01ZDhmNzRiNTk0YTQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YP9NqbgW2FFfco3n1p17uqEn-8vPiX-Mp_VFE_DJ9sM" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Arco de los Androides
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526408
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga de Cell" tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/tvs/poster/4b/a36f2a757f661fe5af341de8949dfaed_300x442.jpg?t=1697113801" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga de Cell
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526409
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Torneo de Cell" tvg-logo="http://redworld.pro:8880/images/2f55a72e0b25e5368a37b8c8a2259378.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Torneo de Cell
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526410
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="http://redworld.pro:8880/images/43fd41572682dc8ebe1065e614182799.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga De Majin Boo
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526411
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball GT" tvg-logo="http://redworld.pro:8880/images/97ea0f2dc94d97680f00cd1974aaaad5.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball GT
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526413
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Daima" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/330c00fc-b630-4c55-b95f-cf1ad592d4b7/die0vkw-d4710649-0d29-43cf-a2a8-70fecfa9ba61.png/v1/fill/w_1032,h_774/dragon_ball_daima_logo__unofficial__by_distortedgamer07_die0vkw-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6Ii9mLzMzMGMwMGZjLWI2MzAtNGM1NS1iOTVmLWNmMWFkNTkyZDRiNy9kaWUwdmt3LWQ0NzEwNjQ5LTBkMjktNDNjZi1hMmE4LTcwZmVjZmE5YmE2MS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5gsSaamfa0OFUBUXN0hz2ufxBaInJgaIWwoSuSpziLk" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Daima
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526447
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -718,88 +795,13 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/533409
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/533410
-#EXTINF:-1 tvg-id="/Las Tortugas Ninja" tvg-logo="https://i.postimg.cc/GhzC8r0k/Las-Tortugas-Ninja-Serie-de-TV-372578913-large.jpg" group-title="TV Premium",Las Tortugas Ninja HD
-https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman Animado" tvg-logo="http://redworld.pro:8880/images/f8f65478effdd79cd447572c7f17cfe8.png" group-title="✅ 24/7 VIP",24/7 Batman Animado
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526491
-#EXTINF:-1 tvg-id="Comedy Central South Park" tvg-logo="https://i.postimg.cc/Y0ZPcph1/images.jpgg" group-title="Comedia ",Comedy Central South Park HD
-https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-#EXTINF:-1 tvg-id="Pluto Anime TV" tvg-logo="https://i.postimg.cc/c1pTNkFM/images.jpg" group-title="Anime",Pluto Anime TV HD
-https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
-#EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.postimg.cc/PrSgf4ZV/descarga.png" group-title="Anime",Max Anime HD
-https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Naruto TV Serie" tvg-logo="https://i.postimg.cc/2y80gsHm/images.jpg" group-title="Anime",Naruto TV Serie HD
-https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
-#EXTINF:-1 tvg-id="Naruto Shippuden TV" tvg-logo="https://i.postimg.cc/44LPmFL8/images.jpg" group-title="Anime",Naruto Shippuden TV HD
-https://jmp2.uk/plu-64c92f965580090008084968.m3u8
-#EXTINF:-1 tvg-id="Boruto TV" tvg-logo="https://i.postimg.cc/0jRShF9f/images.webp" group-title="Anime",Boruto TV HD
-https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
-#EXTINF:-1 tvg-id="One Piece TV Series" tvg-logo="https://i.postimg.cc/CMXDyyrc/images.jpg" group-title="Anime",One Piece TV Series HD
-https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
-#EXTINF:-1 tvg-id="One Piece TV Series" tvg-logo="https://i.postimg.cc/CMXDyyrc/images.jpg" group-title="Anime",One Piece TV Series HD
-https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Slam Dunk" tvg-logo="http://redworld.pro:8880/images/54f10f101a3d113d9038bdaff1cf4c0c.jpg" group-title="✅ 24/7 VIP",24/7 Slam Dunk
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526482
-#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece (2023)" tvg-logo="http://redworld.pro:8880/images/61c74037041722a9e905becdf3eb0fbb.jpg" group-title="✅ 24/7 VIP",24/7 One Piece (2023)
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526497
-#EXTINF:-1 tvg-id="" tvg-name="24/7 POKEMON 03 - 05 TEMPORADAS" tvg-logo="http://redworld.pro:8880/images/72b2a9ad0f335c44bd990f81509c2ad4.jpg" group-title="✅ 24/7 VIP",24/7 POKEMON 03 - 05 TEMPORADAS
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526498
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="http://redworld.pro:8880/images/6b60cc8871cb88067947ecf6dbffc4dd.jpg" group-title="✅ 24/7 VIP",24/7 Mazinger Z
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526510
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Temporada  1-3" tvg-logo="http://redworld.pro:8880/images/43b0ea0e20127fbdcaedca3a9a032def.jpg" group-title="✅ 24/7 VIP",24/7 Naruto Temporada  1-3
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526520
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Temporada 4-5" tvg-logo="http://redworld.pro:8880/images/43b0ea0e20127fbdcaedca3a9a032def.jpg" group-title="✅ 24/7 VIP",24/7 Naruto Temporada 4-5
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526521
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note" tvg-logo="http://redworld.pro:8880/images/84589aa4261bd4d554788680d5c68327.png" group-title="✅ 24/7 VIP",24/7 Death Note
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526533
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 Dragon Ball Super
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526557
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 1-14" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 1-14
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526353
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 15-27" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 15-27
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526354
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 28-46" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 28-46
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526355
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 47-76" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 47-76
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526356
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas Dragon Ball Z" tvg-logo="http://redworld.pro:8880/images/eeff9c1fdf6786e8712b0bcb6877e34d.jpg" group-title="✅ 24/7 VIP",24/7 Peliculas Dragon Ball Z
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526559
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del Zodiaco 01" tvg-logo="http://redworld.pro:8880/images/39bc1d236350af0b6d6670555c703e7d.png" group-title="✅ 24/7 VIP",24/7 Caballeros del Zodiaco 01
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526474
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del Zodiaco 02" tvg-logo="http://redworld.pro:8880/images/39bc1d236350af0b6d6670555c703e7d.png" group-title="✅ 24/7 VIP",24/7 Caballeros del Zodiaco 02
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526524
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Astroboy" tvg-logo="http://redworld.pro:8880/images/4d1ad9f460dff4439393f9be75fe4ea0.jpg" group-title="✅ 24/7 VIP",24/7 Astroboy
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526475
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon" tvg-logo="http://redworld.pro:8880/images/05008b79609edd5d4fafbe16f5d8852f.jpg" group-title="✅ 24/7 VIP",24/7 Sailor Moon
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526476
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas Pokemon" tvg-logo="http://redworld.pro:8880/images/c0ab65dac088f30b028af0ff692c43bb.jpg" group-title="✅ 24/7 VIP",24/7 Peliculas Pokemon
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526454
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Robotech" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__nmteICfa-SB9CZ3voNncnXAG8JbUTtmRg&s" group-title="✅ 24/7 VIP",24/7 - Robotech
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526446
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Heroes" tvg-logo="http://redworld.pro:8880/images/5b550a15b66774852f039dea433d29fb.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Heroes
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526331
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball 1 al 76" tvg-logo="http://redworld.pro:8880/images/47fae34277b9e3a01392eec0c49a5434.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball 1 al 76
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526403
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball 77 al 153" tvg-logo="http://redworld.pro:8880/images/47fae34277b9e3a01392eec0c49a5434.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball 77 al 153
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526404
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin" tvg-logo="http://redworld.pro:8880/images/4c4ff64022dc214db4e2a5c4dbcf3b55.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga Saiyajin
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526405
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Namek" tvg-logo="http://redworld.pro:8880/images/2de97ee1bcdd0d18ffb3bc92c35c4e69.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga Namek
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526406
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga de Garlic" tvg-logo="http://redworld.pro:8880/images/ec49ab1f5e2ae065d26dbac864ee0510.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga de Garlic
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526407
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Arco de los Androides" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5efd1182-6241-4ccf-98e8-fdaae8d38109/dekn46d-26e0a1ca-5abb-4ded-b952-5d8f74b594a4.jpg/v1/fill/w_1024,h_1536,q_75,strp/dragon_ball_z_android_saga_by_raydash30_dekn46d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzNiIsInBhdGgiOiJcL2ZcLzVlZmQxMTgyLTYyNDEtNGNjZi05OGU4LWZkYWFlOGQzODEwOVwvZGVrbjQ2ZC0yNmUwYTFjYS01YWJiLTRkZWQtYjk1Mi01ZDhmNzRiNTk0YTQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YP9NqbgW2FFfco3n1p17uqEn-8vPiX-Mp_VFE_DJ9sM" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Arco de los Androides
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526408
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga de Cell" tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/tvs/poster/4b/a36f2a757f661fe5af341de8949dfaed_300x442.jpg?t=1697113801" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga de Cell
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526409
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Torneo de Cell" tvg-logo="http://redworld.pro:8880/images/2f55a72e0b25e5368a37b8c8a2259378.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Torneo de Cell
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526410
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="http://redworld.pro:8880/images/43fd41572682dc8ebe1065e614182799.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga De Majin Boo
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526411
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball GT" tvg-logo="http://redworld.pro:8880/images/97ea0f2dc94d97680f00cd1974aaaad5.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball GT
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526413
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Daima" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/330c00fc-b630-4c55-b95f-cf1ad592d4b7/die0vkw-d4710649-0d29-43cf-a2a8-70fecfa9ba61.png/v1/fill/w_1032,h_774/dragon_ball_daima_logo__unofficial__by_distortedgamer07_die0vkw-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6Ii9mLzMzMGMwMGZjLWI2MzAtNGM1NS1iOTVmLWNmMWFkNTkyZDRiNy9kaWUwdmt3LWQ0NzEwNjQ5LTBkMjktNDNjZi1hMmE4LTcwZmVjZmE5YmE2MS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5gsSaamfa0OFUBUXN0hz2ufxBaInJgaIWwoSuSpziLk" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Daima
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526447
+
+
+
+
+
+
+
 #EXTINF:0,Sakura Card Captor Español cap 1 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 1
 https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2001%20en%20Espa%C3%B1ol%20latino.mp4
 #EXTINF:0,Sakura Card Captor Español cap 2 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 2
@@ -820,6 +822,8 @@ https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sak
 https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2009%20en%20Espa%C3%B1ol%20latino.mp4
 #EXTINF:0,Sakura Card Captor Español cap 10 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 10
 https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2010%20en%20Espa%C3%B1ol%20latino.mp4
+
+
 #EXTINF:-1, E01 - Renacimiento
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E01%20-%20Rebirth%20-%20PT-BR.srt
 https://archive.org/download/death-note-complete-2006-2007/E01%20-%20Rebirth.mp4
@@ -837,6 +841,12 @@ https://ia803101.us.archive.org/25/items/smash-mouth-all-star-1080-p-hd/Smash%20
 https://ia600106.us.archive.org/18/items/run-dmc-walk-this-way-official-hd-video-ft.-aerosmith-1080-p-hd/RUN%20DMC%20-%20Walk%20This%20Way%20%28Official%20HD%20Video%29%20ft.%20Aerosmith%281080P_HD%29.mp4
 #EXTINF:-1 tvg-id="Aerosmith Dream On " tvg-logo="https://i.postimg.cc/Gtzy9jWS/ere.jpg" group-title="Music",Aerosmith Dream On HD
 https://ia800604.us.archive.org/1/items/aerosmith-dream-on-live-from-mexico-city-2016-1080-p-hd/Aerosmith%20-%20Dream%20On%20%28Live%20From%20Mexico%20City_%202016%29%281080P_HD%29.mp4
+
+
+
+
+#EXTINF:-1 tvg-id="Peliculas Dragon Ball Z"  tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Peliculas Dragon Ball Z
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526559
 #EXTINF:-1 tvg-id="Moana Live Action" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Moana Live Action HD
 https://ia801500.us.archive.org/18/items/moana-2026_202609/Moana%202026.mp4
 #EXTINF:-1 tvg-id="Esta entre nosotros" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Estan entre Nosotros HD
