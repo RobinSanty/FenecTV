@@ -460,6 +460,9 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 #EXTINF:0, TUDN
 #EXTVLCOPT:network-caching=3000
+http://45.88.138.21:80/S0xUbkZXZkN4amJKZzR1WHllL0V0dVl2SjdsQWtYNkpFS2gybzVGUEZ3dz0
+#EXTINF:0, TUDN
+#EXTVLCOPT:network-caching=3000
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167770
 #EXTINF:0,Claro Sports
 #EXTVLCOPT:network-caching=3000
